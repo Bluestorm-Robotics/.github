@@ -1,4 +1,7 @@
 # Mercersburg Academy Bluestorm Robotics Team.
 
-Welcome to our github organization. Here we keep public archives of previous VEX games and RoboCup teams.
+Welcome to our github organization. 
+
+Here we keep public archives of previous VEX games and RoboCup teams.
+
 1723 STORM!
