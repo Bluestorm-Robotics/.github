@@ -1,4 +1,4 @@
-# Mercersburg Academy Bluestorm Robotics Team.
+# Mercersburg Academy Blue Storm Robotics Team.
 
 Welcome to our github organization. 
 
